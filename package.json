@@ -1,0 +1,17 @@
+{
+  "name": "info.androidabcd.plugin.custom",
+  "version": "1.0.0",
+  "description": "Demo Cordova plugin to add 2 integers",
+  "cordova": {
+    "id": "info.androidabcd.plugin.custom",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Harshavardhan Malve",
+  "license": "ISC"
+}
